@@ -20,6 +20,6 @@
 ### 🔥 GitHub Stats & Top Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[20kkm]&show_icons=true&theme=radical&hide_border=true" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=[20kkm]&show_icons=true&theme=radical&hide_border=true](https://github.com/20kkm/2025ARM_202021289)" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[20kkm]&layout=compact&theme=radical&hide_border=true" />
 </div>
