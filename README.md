@@ -1,15 +1,18 @@
 ## Hi there 👋
 
 <!--
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=👋%20Hello%20Dev&fontSize=90" />
-</div>
 
-<h3 align="center">✨ AI/ML과 Embedded System을 탐구하는 개발자 ✨</h3>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=430&lines=Welcome+to+my+GitHub+Profile!;Learning+new+things+everyday...;Connect+with+me+on+LinkedIn!" />
-</div>
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 30%; border-right: 2px solid #ccc; padding: 20px;">
+        ## ✨ About Me
+        </td>
+    <td style="width: 70%; padding: 20px;">
+        ## 📂 My Projects
+        </td>
+  </tr>
+</table>
 
 ### 🛠️ Tech Stack & Tools
 
@@ -30,3 +33,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=[20kkm]&show_icons=true&theme=radical&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[20kkm]&layout=compact&theme=radical&hide_border=true" />
 </div>
+!-->
